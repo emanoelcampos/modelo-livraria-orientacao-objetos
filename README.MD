@@ -1,6 +1,6 @@
 #  Modelo de Livraria usando JAVA + POO
 
-#### Modelo didático de livraria com regra de negócio criada com principal objetivo de aplicar os conceitos da programação orientada a objetos. Projeto criado a partir da leitura do livro [Desbravando Java e Orientação a Objetos](https://www.casadocodigo.com.br/pages/sumario-orientacao-objetos-java) da Casa do Código.
+### Modelo didático de livraria com regra de negócio criada com principal objetivo de aplicar os conceitos da programação orientada a objetos. Projeto criado a partir da leitura do livro [Desbravando Java e Orientação a Objetos](https://www.casadocodigo.com.br/pages/sumario-orientacao-objetos-java) da Casa do Código.
 
 
 ## Funcionalidades
