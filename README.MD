@@ -16,7 +16,7 @@ O modelo de livraria é composto por entidades que descrevem produtos e caracter
 
 ## Aprendizados
 
-O objetivo do projeto foi criar e evoluir a aplicação Java de uma livraria assim como a Casa do Código, colocando em prática todos os principais recursos e conceitos da linguagem Java aplicando orietanção à objetos, desde o mais simples ao maisavançado, além de introduzir APIs e features do Java 8.
+O objetivo do projeto foi criar e evoluir a aplicação Java de uma livraria assim como a Casa do Código, colocando em prática todos os principais recursos e conceitos da linguagem Java aplicando orietanção à objetos, desde o mais simples ao mais avançado, além de introduzir APIs e features do Java 8.
 
 Conceitos da POO aplicados no projeto:
 
